@@ -1,6 +1,6 @@
 ---
-title: "Insert title"
-author: "Insert author"
+title: "My awesome title"
+author: "Jon Doe"
 date: June 27, 2025
 format: "html"
 ---
